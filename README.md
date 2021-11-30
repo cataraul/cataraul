@@ -1,6 +1,7 @@
 - 👋 Hi, my name is Raul
-- 👀 I’m interested in becoming a programmer - more specifically a web developer and maybe a full stack.
-- 🌱 I’m currently learning HTML,CSS and JAVASCRIPT.
+- 👀 I’m interested in becoming a programmer - more specifically a web developer. Front-end for now and later i am willing to learn to become a full-stack developer.
+- 🌱 I’m currently learning React and i'm building my portofolio projects.
+- Technologies learned : HTML, CSS(bootstrap, sass), JAVASCRIPT ,React.
 - 📫 How to reach me : 
               email: raul.domnita@yahoo.com
 
