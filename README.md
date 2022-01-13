@@ -1,10 +1,20 @@
-- 👋 Hi, my name is Raul-Catalin Domnita
-- 👀 I’m interested in becoming a programmer - more specifically a web developer. Front-end for now and later i am willing to learn to become a full-stack developer.
-- 🌱 I’m currently learning React and i'm building my portofolio projects.
-- Technologies learned : HTML, CSS, BOOTSTRAP, SASS, JAVASCRIPT , REACT. 
+- 👋 Hi, my name is Raul
+- 👀 I am a disciplined person that likes to use Web Technologies to create applications. I am always looking forward to experience and learn new things. I love to do sports in my free time.
+- 🌱 I’m currently expanding my knowledge learning about Back-End and solidifying my Front-End skills doing personal projects.
+- Technologies learned : HTML, CSS(bootstrap, sass), JAVASCRIPT ,React.
 - 📫 How to reach me : 
-              email: raul.domnita@yahoo.com
-Apps/Websites made : https://fake-store-app-9a2fd.web.app/
+              Email: raul.domnita@yahoo.com or domnitaraul98@gmail.com
+              LinkedIn : https://www.linkedin.com/in/raul-domnita-90936a204/
+
+- Links to Live Demos to some of my projects: 
+            -> E-Commerce Web Application: https://fake-store-app-9a2fd.web.app/
+            -> Cocktails Web App: https://cataraul.github.io/cocktails/
+            -> Hangman Game: https://cataraul.github.io/hangman/
+            -> TicTacToe Game: https://cataraul.github.io/TicTacToe/
+            -> Space-Tourism(FrontEnd Mentor Challenge): https://cataraul.github.io/space-tourism/
+            
+- Food is my enemy and my best friend.
+            
 <!---
 cataraul/cataraul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
