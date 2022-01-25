@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Raul
-- 👀 I am a disciplined person that likes to use Web Technologies to create applications. I am always looking forward to experience and learn new things. I love to do sports in my free time.
+- 👀 I am a disciplined and self-taught programmer that likes to use Web Technologies to create applications. I am always looking forward to experience and learn new things.   I love to do sports in my free time. 
 - 🌱 I’m currently expanding my knowledge learning about Back-End and solidifying my Front-End skills doing personal projects.
 - Technologies learned : HTML, CSS(bootstrap, sass), JAVASCRIPT ,React.
 - 📫 How to reach me : 
