@@ -5,6 +5,7 @@
 - 📫 How to reach me : 
               Email: raul.domnita@yahoo.com or domnitaraul98@gmail.com
               LinkedIn : https://www.linkedin.com/in/raul-domnita-90936a204/
+              Portfolio : https://cataraul.github.io/rauldomnita/ 
 
 - Links to Live Demos to some of my projects: 
             -> E-Commerce Web Application: https://fake-store-app-9a2fd.web.app/
